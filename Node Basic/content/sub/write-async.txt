@@ -1,0 +1,4 @@
+Here is asynchronous result = 
+ First file text 
+
+ Second file text

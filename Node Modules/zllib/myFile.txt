@@ -1,0 +1,7 @@
+This is my first line of the content
+This is my second line of the content
+This is my third line of the content
+welcome to nodejs
+we are working on zlib Modules
+it compresses the data inside the file
+its a node hs module
